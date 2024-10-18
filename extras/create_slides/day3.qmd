@@ -1,0 +1,24 @@
+---
+title: "Data Science Basics in R, Day 3"
+subtitle: "Exploratory Data Analysis"
+from: revealjs
+format:
+  revealjs: 
+    theme: seaneffquarto.scss
+    df-print: paged
+---
+
+```{r}
+#| label: first-objects
+#| echo: false
+cases <- read.delim("~/Documents/work/GT/data-science-basics-2024/course-datasets/measles_cases.tsv")
+policies <- read.delim("~/Documents/work/GT/data-science-basics-2024/course-datasets/measles_policies.tsv")
+```
+
+
+## Histogram
+
+```{r}
+#| echo: true
+hist(policies$pct_rural)
+```

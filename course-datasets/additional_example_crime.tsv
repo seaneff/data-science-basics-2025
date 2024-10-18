@@ -1,0 +1,195 @@
+country_name	iso_3166	who_region	safe_after_dark_overall	safe_after_dark_male	safe_after_dark_female	safe_after_dark_reference	robbery_overall	robbery_male	robbery_female	robbery_reference
+Afghanistan	AFG	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Angola	AGO	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Albania	ALB	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Andorra	AND	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+United Arab Emirates	ARE	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Armenia	ARM	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Antigua and Barbuda	ATG	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Australia	AUS	Western Pacific Region	NA	NA	NA	NA	0.3	0.3	0.2	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Austria	AUT	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Azerbaijan	AZE	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Burundi	BDI	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Benin	BEN	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Burkina Faso	BFA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Bangladesh	BGD	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Bahrain	BHR	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Bahamas	BHS	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Bosnia and Herzegovina	BIH	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Belarus	BLR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Belize	BLZ	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Bolivia	BOL	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Barbados	BRB	Region of the Americas	NA	NA	NA	NA	2	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2009)
+Brunei	BRN	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Bhutan	BTN	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Botswana	BWA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Central African Republic	CAF	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Ivory Coast	CIV	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Cameroon	CMR	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Democratic Republic of the Congo	COD	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Republic of Congo	COG	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Cook Islands	COK	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Colombia	COL	Region of the Americas	NA	NA	NA	NA	3.14	3.43	2.86	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)
+Comoros	COM	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Costa Rica	CRI	Region of the Americas	NA	NA	NA	NA	12.94	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2014)
+Cuba	CUB	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Cyprus	CYP	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Czech Republic	CZE	European Region	NA	NA	NA	NA	3.1	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2013)
+Djibouti	DJI	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Dominica	DMA	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Denmark	DNK	European Region	NA	NA	NA	NA	0.8	0.8	0.8	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2014)
+Dominican Republic	DOM	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Algeria	DZA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Ecuador	ECU	Region of the Americas	NA	NA	NA	NA	13.8	15.3	12.6	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2011)
+Egypt	EGY	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Eritrea	ERI	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Spain	ESP	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Ethiopia	ETH	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Fiji	FJI	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Micronesia	FSM	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Gabon	GAB	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+UK	GBR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Georgia	GEO	European Region	NA	NA	NA	NA	0.19	NA	0.15	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2010)
+Ghana	GHA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Guinea	GIN	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Guinea-Bissau	GNB	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Equatorial Guinea	GNQ	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Greece	GRC	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Grenada	GRD	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Guatemala	GTM	Region of the Americas	NA	NA	NA	NA	NA	62.5	15.8	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+Guyana	GUY	Region of the Americas	NA	NA	NA	NA	8.5	NA	NA	National Statistical Office (2010)
+Honduras	HND	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Croatia	HRV	European Region	NA	NA	NA	NA	0.9	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2010)
+Haiti	HTI	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Hungary	HUN	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+India	IND	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Iran	IRN	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Iraq	IRQ	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Jordan	JOR	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Kazakhstan	KAZ	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Kenya	KEN	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Cambodia	KHM	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Kiribati	KIR	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Nevis	KNA	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+South Korea	KOR	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Kuwait	KWT	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Laos	LAO	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Lebanon	LBN	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Liberia	LBR	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Libya	LBY	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Sri Lanka	LKA	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Lesotho	LSO	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Morocco	MAR	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Monaco	MCO	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Moldova	MDA	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Madagascar	MDG	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Maldives	MDV	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Marshall Islands	MHL	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+North Macedonia	MKD	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Mali	MLI	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Malta	MLT	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Montenegro	MNE	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Mozambique	MOZ	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Mauritania	MRT	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Mauritius	MUS	African Region	NA	NA	NA	NA	15	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2004)
+Malawi	MWI	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Namibia	NAM	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Niger	NER	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Nicaragua	NIC	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Niue	NIU	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Netherlands	NLD	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Norway	NOR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Nepal	NPL	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Nauru	NRU	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+New Zealand	NZL	Western Pacific Region	NA	NA	NA	NA	0.5	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2014)
+Oman	OMN	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Pakistan	PAK	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Philippines	PHL	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Palau	PLW	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Papua New Guinea	PNG	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+North Korea	PRK	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Portugal	PRT	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Qatar	QAT	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Romania	ROU	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Russia	RUS	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Rwanda	RWA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Saudi Arabia	SAU	Eastern Mediterranean Region	NA	NA	NA	NA	0.9	0.9	0.1	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+Sudan	SDN	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Senegal	SEN	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Singapore	SGP	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Solomon Islands	SLB	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Sierra Leone	SLE	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+San Marino	SMR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Somalia	SOM	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Serbia	SRB	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+South Sudan	SSD	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Sao Tome and Principe	STP	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Suriname	SUR	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Slovenia	SVN	European Region	NA	NA	NA	NA	0.57	0.67	0.46	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)
+Eswatini	SWZ	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Seychelles	SYC	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Syria	SYR	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Chad	TCD	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Togo	TGO	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Tajikistan	TJK	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Turkmenistan	TKM	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Timor-Leste	TLS	South-East Asia Region	NA	NA	NA	NA	NA	NA	NA	NA
+Tonga	TON	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Tobago	TTO	Region of the Americas	NA	NA	NA	NA	0.9	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2015)
+Tunisia	TUN	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Turkey	TUR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Tuvalu	TUV	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Tanzania	TZA	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Uganda	UGA	African Region	NA	NA	NA	NA	2.1	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)
+Ukraine	UKR	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Uruguay	URY	Region of the Americas	NA	NA	NA	NA	5	5	5	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2011)
+Uzbekistan	UZB	European Region	NA	NA	NA	NA	NA	NA	NA	NA
+Saint Vincent	VCT	Region of the Americas	NA	NA	NA	NA	6	NA	NA	National Statistical Office (2010)
+Venezuela	VEN	Region of the Americas	NA	NA	NA	NA	NA	NA	NA	NA
+Vietnam	VNM	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Vanuatu	VUT	Western Pacific Region	NA	NA	NA	NA	NA	NA	NA	NA
+Yemen	YEM	Eastern Mediterranean Region	NA	NA	NA	NA	NA	NA	NA	NA
+Zambia	ZMB	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Zimbabwe	ZWE	African Region	NA	NA	NA	NA	NA	NA	NA	NA
+Lithuania	LTU	European Region	63.9	74.3	56.6	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2013)	NA	NA	NA	NA
+Slovakia	SVK	European Region	74	NA	NA	National Statistical Office (2013)	NA	NA	NA	NA
+Argentina	ARG	Region of the Americas	47.6	54.4	41.8	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)	6.2	5.2	7	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)
+Cape Verde	CPV	African Region	51.7	59.7	43.8	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)	2.3	3.1	1.6	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)
+Italy	ITA	European Region	60.6	75.4	46.9	National Statistical Office (2016)	0.5	0.6	0.3	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)
+Panama	PAN	Region of the Americas	33	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2016)	1.7	NA	NA	National Statistical Office (2016)
+Belgium	BEL	European Region	74.25	79.14	69.7	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2018)	4.14	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2018)
+Saint Lucia	LCA	Region of the Americas	85.5	88.7	82.9	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2018)	0.6	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2018)
+Mongolia	MNG	Western Pacific Region	NA	83.7	54.8	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2018)	NA	NA	NA	NA
+Canada	CAN	Region of the Americas	87.6	92.3	82.5	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)	0.6	0.5	0.7	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)
+Switzerland	CHE	European Region	72.9	77.6	68.4	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	0.4	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2015)
+France	FRA	European Region	89	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	0.32	NA	NA	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)
+Ireland	IRL	European Region	75	87	64	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	1.7	2	1	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+Jamaica	JAM	Region of the Americas	69.6	92.2	89.8	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	1.6	NA	NA	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)
+Japan	JPN	Western Pacific Region	83.4	88.7	78.5	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)	NA	NA	NA	NA
+Myanmar	MMR	South-East Asia Region	83.8	86.8	80.7	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2019)	NA	0.24	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+Nigeria	NGA	African Region	78.93	79.57	78.2	Data based on original research by UNODC (2019)	NA	NA	NA	NA
+Poland	POL	European Region	70.1	78.8	62	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	1	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Paraguay	PRY	Region of the Americas	43.1	49.8	37.7	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	5.6	4.9	6.1	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+El Salvador	SLV	Region of the Americas	37.9	44.4	32.5	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)	3.1	3.1	3	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2019)
+Bulgaria	BGR	European Region	NA	NA	18.6	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	NA	NA	NA	NA
+China	CHN	Western Pacific Region	91.44	94.71	85.95	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	NA	NA	NA	NA
+Germany	DEU	European Region	72	83.4	61.3	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	0.6	0.7	0.5	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)
+Gambia	GMB	African Region	58.6	68.4	51.1	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	NA	NA	NA	NA
+Indonesia	IDN	South-East Asia Region	62.8	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)	0.38	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2011)
+Luxembourg	LUX	European Region	79.18	86.35	71.45	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)	0.6	0.51	0.58	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2020)
+Latvia	LVA	European Region	75	85	67	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	NA	NA	NA	NA
+Thailand	THA	South-East Asia Region	92.7	NA	NA	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	0.4	NA	NA	National Statistical Office (2016)
+Samoa	WSM	Western Pacific Region	NA	96.2	80.8	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2020)	NA	NA	NA	NA
+Brazil	BRA	Region of the Americas	48.3	55.1	41.1	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)	NA	NA	NA	NA
+Chile	CHL	Region of the Americas	32.3	43	22	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	3	3	3.1	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Estonia	EST	European Region	75	88	63.6	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	0.7	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2018)
+Finland	FIN	European Region	85.8	90	81.4	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	NA	NA	NA	NA
+Iceland	ISL	European Region	89	92	86	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	NA	NA	NA	NA
+Israel	ISR	European Region	82.86	88.97	76.83	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	0.37	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Kyrgyzstan	KGZ	European Region	67.14	NA	NA	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)	1.08	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2015)
+Mexico	MEX	Region of the Americas	38.62	47.01	31.09	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	5.66	6.63	4.82	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Malaysia	MYS	Western Pacific Region	90.5	NA	NA	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)	NA	NA	NA	NA
+Peru	PER	Region of the Americas	43.2	47.5	39.2	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	11.3	11.7	11	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+Sweden	SWE	European Region	72	81	64	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	1.2	1.9	0.6	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)
+USA	USA	Region of the Americas	63	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)	0.12	NA	NA	National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS) (2021)
+South Africa	ZAF	African Region	36	35.4	36.5	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)	0.6	0.5	0.7	Data revised by national authorities in response to the Pre-Publication of Sustainable Development Goals indicators (SDG-PrePub) (2021)

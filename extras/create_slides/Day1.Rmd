@@ -1,0 +1,208 @@
+---
+title: "Day 1"
+
+output:
+  rmdformats::html_clean:
+    highlight: haddock
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Basic math
+
+```{r}
+#| echo: true
+1+1
+```
+
+```{r}
+#| echo: true
+10-8
+```
+
+```{r}
+#| echo: true
+(6-3)*4
+```
+
+## Basic math x 2
+
+```{r}
+#| echo: true
+abs(-18)
+```
+
+```{r}
+#| echo: true
+log(1)
+```
+
+```{r}
+#| echo: true
+log(1)
+```
+
+## Objects
+
+```{r}
+#| echo: true
+my_first_object <- 3
+```
+
+```{r}
+#| echo: true
+my_first_object
+```
+
+```{r}
+#| echo: true
+my_second_object <- "steph"
+```
+
+```{r}
+#| echo: true
+my_second_object
+```
+
+## Math with objects
+
+
+```{r}
+#| echo: true
+my_first_object
+```
+
+
+```{r}
+#| echo: true
+my_first_object*2
+```
+
+```{r}
+#| echo: true
+my_first_object * my_first_object 
+```
+
+## Numeric data
+
+```{r}
+#| echo: true
+my_favorite_number <-  3
+my_favorite_number
+```
+
+```{r}
+#| echo: true
+my_house_number <-  1416
+my_house_number
+```
+
+```{r}
+#| echo: true
+example_result <-  3*4
+example_result
+```
+
+
+## Character data
+
+```{r}
+#| echo: true
+policy <-  "International Health Regulations (2005)"
+policy
+```
+
+```{r}
+#| echo: true
+organization <-  "UNAIDS"
+organization
+```
+
+## Logical data
+
+```{r}
+#| echo: true
+logical_example <-  TRUE
+logical_example
+```
+
+```{r}
+#| echo: true
+second_logical_example <-  FALSE
+second_logical_example
+```
+
+## Check your understanding!
+
+```{r}
+#| echo: true
+is(5)
+```
+
+
+```{r}
+#| echo: true
+is(FALSE)
+```
+
+```{r}
+#| echo: true
+is("Georgetown")
+```
+
+## Vectors
+
+```{r}
+#| echo: true
+c("HIV", "TB", "malaria")
+```
+
+```{r}
+#| echo: true
+c(1, 2, 6, 87)
+```
+
+```{r}
+#| echo: true
+c("CDC", "FDA", 897)
+```
+
+## Vectorized calculations
+
+```{r}
+#| echo: true
+c(1, 2, 3, 4) + 1
+```
+
+```{r}
+#| echo: true
+c(1, 2, 3, 4) * 2
+```
+
+```{r}
+#| echo: true
+c(1, 2, 3, 4) + c(5, 6, 7, 8)
+```
+
+## Functions
+
+```{r}
+#| echo: true
+mean(c(1, 2, 3, 4, 5))
+```
+
+
+```{r}
+#| echo: true
+sd(c(1, 2, 3, 4, 5))
+```
+
+```{r}
+#| echo: true
+summary(c(1, 2, 3, 4, 5))
+```
+
+

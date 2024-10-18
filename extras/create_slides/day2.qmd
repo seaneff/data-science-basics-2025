@@ -1,0 +1,62 @@
+---
+title: "Data Science Basics in R, Day 2"
+subtitle: "Data Management and Version Control"
+from: revealjs
+format:
+  revealjs: 
+    theme: seaneffquarto.scss
+    df-print: paged
+---
+
+```{r}
+#| label: first-objects
+#| echo: false
+day2 <- read.delim("~/Documents/work/GT/data-science-basics-2024/course-datasets/day2.tsv")
+```
+
+
+## Use table to check for missing values
+
+```{r}
+#| echo: true
+table(is.na(day2$who_region), useNA = "ifany")
+```
+
+```{r}
+#| echo: true
+table(is.na(day2$measles_policy), useNA = "ifany")
+```
+
+## Dimensions and field names
+
+```{r}
+#| echo: true
+dim(day2)
+```
+
+```{r}
+#| echo: true
+names(day2)
+```
+
+## Calling a vector
+
+```{r}
+#| echo: true
+day2$country
+```
+
+## Table summaries
+
+```{r}
+#| echo: true
+table(day2$who_region)
+```
+
+```{r}
+#| echo: true
+table(day2$measles_policy)
+```
+## Table summaries
+
+

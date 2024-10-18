@@ -1,0 +1,58 @@
+---
+title: "Day 2"
+
+output:
+  rmdformats::html_clean:
+    highlight: haddock
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+policy <- read.delim("~/Documents/work/GT/data-science-basics-2024/course-datasets/measles_vaccine_policy.tsv")
+```
+
+## Dimensions
+
+```{r}
+dim(policy)
+```
+
+```{r}
+names(policy)
+```
+
+## Tables
+
+```{r}
+anyNA(policy)
+```
+
+```{r}
+anyNA(policy$country_name)
+```
+
+## Vectors
+
+```{r}
+policy$country_name
+```
+
+## Tables
+
+```{r}
+table(policy$measles_vaccine_policy)
+```
+
+## Filtering
+```{r}
+policy[which(policy$country_name == "Angola"),]
+```
+
+```{r}
+library(dplyr)
+
+policy %>%
+  filter(country_name == "Angola")
+```

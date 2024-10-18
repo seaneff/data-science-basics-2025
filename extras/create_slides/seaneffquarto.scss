@@ -1,0 +1,97 @@
+/*-- scss:defaults --*/
+/* modified based on https://github.com/cararthompson/nhsr2022_level-up-your-plots/blob/main/cararquarto.scss */
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200;300;400;500&family=Squada+One&display=swap');
+
+$font-family-sans-serif: "Bitter",
+  "FreeSerif", "serif" !default;
+$font-family-monospace: "Anonymous Pro", monospace !default;
+
+// headings
+$presentation-heading-font: "Bitter", "Enriqueta", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #326765 !default;
+
+// other variables
+$body-bg: #FFFFFF;
+$body-color: #1A242F;
+$highlight-color: #326765;
+
+// code information
+$code-bg: #FFFFFF; // colour for background of inline code
+$code-color: #3d3267; // colour for background of inline code
+$code-block-bg:  #d4dfde; // colour for background of blocks of code
+$code-block-color: #3d3267; // colour for the font of blocks of code
+$code-block-border-color: #abc0be;
+
+.styled-output .cell-output {
+  background-color: lightgreen;
+  border-radius: 4px;
+}
+
+/* sets color of controls*/
+$link-color: #FFFFFF;
+$presentation-font-size-root: 24pt;
+$selection-bg: #5bbcb8;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+  background-color: $presentation-heading-color;
+  display: block;
+  position: fixed;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.reveal .controls {
+  color: $highlight-color;
+}
+
+.reveal a {
+  color: #11559A;
+}
+
+.reveal a:hover {
+  color: #4076AE;
+}
+
+.reveal .slide ul li {
+  list-style: none; /* Remove default bullets */
+}
+
+.reveal .slide ul li::before {
+  content: "\25FC";  /* Add content: \2022 is the CSS Code/unicode for a bullet; add a space for easier alignment! */
+  color: $highlight-color; /* Change the color */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1.5em; /* Also needed for space (tweak if needed) */
+  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+  font-size: 66%;
+}
+
+.reveal .panel-tabset ul li::before {
+  content: ""; /* Remove default bullets */
+}
+
+.reveal .monospace{
+  font-size: 36pt;
+}
+
+.reveal .faded{
+  opacity: 0.4;
+}
+
+.reveal .faded-small{
+  opacity: 0.4;
+  font-size: 0.8em;
+}
+
+.reveal .imitate-title{
+  font-size: 2em;
+}
